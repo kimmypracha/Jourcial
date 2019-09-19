@@ -1,0 +1,26 @@
+{
+  "name": "jourcial",
+  "version": "1.0.0",
+  "description": "The application to create comprehensive journal by social network",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimmypracha/Jourcial.git"
+  },
+  "keywords": [
+    "journal","word","education"
+  ],
+  "author": "kimmypracha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimmypracha/Jourcial/issues"
+  },
+  "homepage": "https://github.com/kimmypracha/Jourcial#readme"
+}
